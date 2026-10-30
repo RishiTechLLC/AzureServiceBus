@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+TestResults/
+appsettings.Development.json
+appsettings.*.local.json
+dlq-archive/
+deferred-*.txt
